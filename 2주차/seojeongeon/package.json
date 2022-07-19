@@ -1,0 +1,21 @@
+{
+  "name": "mblix-backend",
+  "version": "1.0.0",
+  "description": "Mblix-BackEnd",
+  "main": "express-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mblix-GOF/Mblix-BackEnd/test"
+  },
+  "keywords": [
+    "express-1"
+  ],
+  "author": "whaleman, PioneerRedwood",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
