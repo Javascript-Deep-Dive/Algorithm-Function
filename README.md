@@ -13,3 +13,16 @@
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/Node-339933?style=flat-square&logo=React&logoColor=black)
+
+***
+
+# Javascript Deep Dive 정리
+## 7월 26일
+10. [객체 리터럴_문해빈](https://www.notion.so/10-8b93906f91bc4968a47d6716d11068e9)
+11. [원시 값과 객체의 비교_태민규](https://kindly-detail-a14.notion.site/11-a7f51b27781243d8a0a7ce7df32d5966)
+12. [함수_김영인](https://smooth-bream-9bc.notion.site/12-56580cb595ac4fe69f501954ea7d6aed)
+13. []()
+14. [전역 변수의 문제점_나동현](https://scented-shame-6d5.notion.site/14-c5960ade4df34f7680da7a86e6ab9db2)
+15. 
+16. 
+
