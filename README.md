@@ -26,3 +26,10 @@
 15. [let, const 키워드와 블록 레벨 스코프_서정언](https://autumn-airbus-a65.notion.site/15-let-const-8fc8cc119757455fa52207a97ebc9ee1)
 16. [프로퍼티 어트리뷰트_윤예원](https://blog.naver.com/lizzy2/222829346596)
 
+## 8월 2일
+17. [생성자 함수에 의한 객체 생성_태민규](https://kindly-detail-a14.notion.site/17-c43c6d07f7f345d9be51bc24a988d659)
+18. [함수와 일급 객체_문해빈](https://sideways-polka-103.notion.site/18-270b68d6fe3f4b56b1252d54d0ddfe00)
+19. [프로토타입_윤예원](https://blog.naver.com/lizzy2/222837671810)
+20. [strict mode_나동현](https://scented-shame-6d5.notion.site/20-strict-mode-6b4d6bc3c1124ea9ba4f177aa5d2f0f7)
+21. [빌트인 객체_이인](https://www.notion.so/7e0a21cd3c3f4d5fbd041690d8978d4c)
+22. [this_김영인](https://www.notion.so/22-this-48fc5215fa1f46beb0c60c09cfaf5448#9dfa2256cf3c4d9997b314693c983d82)
