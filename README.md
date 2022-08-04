@@ -31,5 +31,5 @@
 18. [함수와 일급 객체_문해빈](https://sideways-polka-103.notion.site/18-270b68d6fe3f4b56b1252d54d0ddfe00)
 19. [프로토타입_윤예원](https://blog.naver.com/lizzy2/222837671810)
 20. [strict mode_나동현](https://scented-shame-6d5.notion.site/20-strict-mode-6b4d6bc3c1124ea9ba4f177aa5d2f0f7)
-21. [빌트인 객체_이인](https://www.notion.so/7e0a21cd3c3f4d5fbd041690d8978d4c)
+21. [빌트인 객체_이인](https://www.notion.so/21-91df698d922947bd9d09f9938b0d08d3)
 22. [this_김영인](https://www.notion.so/22-this-48fc5215fa1f46beb0c60c09cfaf5448#9dfa2256cf3c4d9997b314693c983d82)
