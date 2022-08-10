@@ -33,3 +33,11 @@
 20. [strict mode_나동현](https://scented-shame-6d5.notion.site/20-strict-mode-6b4d6bc3c1124ea9ba4f177aa5d2f0f7)
 21. [빌트인 객체_이인](https://www.notion.so/21-91df698d922947bd9d09f9938b0d08d3)
 22. [this_김영인](https://www.notion.so/22-this-48fc5215fa1f46beb0c60c09cfaf5448#9dfa2256cf3c4d9997b314693c983d82)
+
+## 8월 9일
+23. [실행 컨텍스트_나동현](https://scented-shame-6d5.notion.site/23-5723994dc38843949eb759c1be27a9ed)
+24. [클로저_이인](https://mulberry-taleggio-413.notion.site/24-7df88b5a94d24a56bd1d8243a7317ec1)
+25. [클래스_김영인](https://smooth-bream-9bc.notion.site/25-dfa4c93bf95e473085831ad19f9abc57)
+26. [ES6 함수의 추가 기능_태민규](https://kindly-detail-a14.notion.site/26-ES6-36ae0d2b15724d329d50171e29aa2882)
+33. [7번째 데이터 타입 Symbol_윤예원](https://blog.naver.com/lizzy2/222844046976)
+34. [이터러블_문해빈](https://sideways-polka-103.notion.site/34-76be012d5ad34729aa47bf8a8d5e2c83)
