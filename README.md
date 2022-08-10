@@ -39,5 +39,6 @@
 24. [클로저_이인](https://mulberry-taleggio-413.notion.site/24-7df88b5a94d24a56bd1d8243a7317ec1)
 25. [클래스_김영인](https://smooth-bream-9bc.notion.site/25-dfa4c93bf95e473085831ad19f9abc57)
 26. [ES6 함수의 추가 기능_태민규](https://kindly-detail-a14.notion.site/26-ES6-36ae0d2b15724d329d50171e29aa2882)
+***
 33. [7번째 데이터 타입 Symbol_윤예원](https://blog.naver.com/lizzy2/222844046976)
 34. [이터러블_문해빈](https://sideways-polka-103.notion.site/34-76be012d5ad34729aa47bf8a8d5e2c83)
