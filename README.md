@@ -66,9 +66,13 @@
 
 ## 8월 23일
 40-1~40-4. [이벤트_김영인](https://www.notion.so/40-1-40-4-41a468ce1e92460f825bd5277fae79f2)
+
 40-5~40-7. [이벤트_태민규](https://www.notion.so/40-40-5-40-7-68652b5356c94f6d838b785b9d3873da)
+
 40-8~40-11. [이벤트_문해빈](https://sideways-polka-103.notion.site/40-fea370ea9a61437cb3f34ab936196736)
+
 41~42.[타이머,비동기 프로그래밍_윤예원](https://blog.naver.com/lizzy2/222855168870)
+
 43. [Ajax_이인](https://www.notion.so/43-Ajax-845b5b5286594d569645bf19f9e29ec4)
 
 ***
