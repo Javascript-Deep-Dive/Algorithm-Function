@@ -71,7 +71,7 @@
 
 40-8~40-11. [이벤트_문해빈](https://sideways-polka-103.notion.site/40-fea370ea9a61437cb3f34ab936196736)
 
-41~42.[타이머,비동기 프로그래밍_윤예원](https://blog.naver.com/lizzy2/222855168870)
+41~42. [타이머,비동기 프로그래밍_윤예원](https://blog.naver.com/lizzy2/222855168870)
 
 43. [Ajax_이인](https://www.notion.so/43-Ajax-845b5b5286594d569645bf19f9e29ec4)
 
