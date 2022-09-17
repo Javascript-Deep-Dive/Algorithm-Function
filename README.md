@@ -61,3 +61,21 @@
 39-2. [DOM 6_나동현](https://scented-shame-6d5.notion.site/39-6-DOM-b72723ae589640c4999098a2524dd63a)
 
 39-3. [DOM 7`9_태민규](https://kindly-detail-a14.notion.site/39-DOM-5fc26172ab5c4ceb86984d470c337a46)
+
+***
+
+## 8월 23일
+40-1~40-4. [이벤트_김영인](https://www.notion.so/40-1-40-4-41a468ce1e92460f825bd5277fae79f2)
+40-5~40-7. [이벤트_태민규](https://www.notion.so/40-40-5-40-7-68652b5356c94f6d838b785b9d3873da)
+40-8~40-11. [이벤트_문해빈](https://sideways-polka-103.notion.site/40-fea370ea9a61437cb3f34ab936196736)
+41~42.[타이머,비동기 프로그래밍_윤예원](https://blog.naver.com/lizzy2/222855168870)
+43. [Ajax_이인](https://www.notion.so/43-Ajax-845b5b5286594d569645bf19f9e29ec4)
+
+***
+
+## 8월 30일
+44. [REST API_태민규](https://www.notion.so/44-REST-API-ed972d483384409c9975537711f58d51)
+45. [promise_이인](https://mulberry-taleggio-413.notion.site/45-4e614556e134442d883ad44fc55af418)
+46. [제너레이터와 async/await](https://sideways-polka-103.notion.site/46-async-await-553002d5845c4544a546e2925fbb05ae)
+47. [에러 처리_윤예원](https://blog.naver.com/lizzy2/222856502802)
+48. [모듈_김영인](https://smooth-bream-9bc.notion.site/48-Module-da9a74e330354c94ab953d8a51e7dfc7)
